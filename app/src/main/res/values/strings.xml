@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_activity_boot_mode</string>
+
+    <string name="activity_standard">standard</string>
+    <string name="tv_single_top">tv_single_top</string>
+    <string name="tv_single_task">tv_single_task</string>
+    <string name="tv_single_instance">tv_single_instance</string>
+
+</resources>
